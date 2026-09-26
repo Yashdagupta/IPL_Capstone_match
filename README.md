@@ -55,5 +55,3 @@ IPL_Capstone_match/
 **Yashda Gupta**
 
 B.Tech AIML Student | Aspiring Data Analyst
-├── deliveries.csv
-└── README.md
